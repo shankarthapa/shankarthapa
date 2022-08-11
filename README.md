@@ -1,8 +1,4 @@
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-a { text-decoration: none; }
-a:hover { text-decoration: underline; }
-</style>")
+
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   <img src="smile.gif"/>
@@ -41,10 +37,16 @@ a:hover { text-decoration: underline; }
 
 ---
 
+<div style="display:flex !important; justify-content: space-between !important;">
+      
+      
   <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=shankarthapa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarthapa)](https://github.com/shankarthapa)
-  
+
+      
+      
+      </div>
     
   
 
