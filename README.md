@@ -6,7 +6,7 @@
 
 # Hi there 👋 I am Shankar Thapa ![visitors](https://visitor-badge.glitch.me/badge?page_id=shankarthapa.git@github.com:shankarthapa/shankarthapa.git&left_color=green&right_color=red)
 
-<p> I am full-stack software engineer. Love todo coding & travelling, swiming & scuba diving. Data structure & pixel </p>
+<p> I am full-stack software engineer. Love todo coding & travelling, swiming & scuba diving.</p>
 
 #### Technical stack
 - MEAN Stack
