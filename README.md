@@ -35,11 +35,19 @@
 <img src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611b76b3e24140963d91743ec8febc22dd8bae2d541&rid=giphy.gif&ct=g"/>
 
 ---
-<div style="display:flex; flex-flow:row;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shankarthapa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />(https://github.com/shankarthapa)
+
+  <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=shankarthapa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarthapa)](https://github.com/shankarthapa)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarthapa)](https://github.com/shankarthapa)
-<div>
+    
+  
+
+  
+
+  
+
+
 
 <!--
 **shankarthapa/shankarthapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
