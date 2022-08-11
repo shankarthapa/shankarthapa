@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="smile.gif"/>
 </div>
 
 # Hi there 👋 I am Shankar Thapa ![visitors](https://visitor-badge.glitch.me/badge?page_id=shankarthapa.git@github.com:shankarthapa/shankarthapa.git&left_color=green&right_color=red)
