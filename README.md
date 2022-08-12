@@ -19,6 +19,7 @@
 - NodeJs
 - Socket.IO
 - MongoDB
+- FFMPEG
 - MySQL
 - Postgres
 - Real time Applications, like LIVE streaming, multiplayer games
