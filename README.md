@@ -4,7 +4,7 @@
   <img src="smile.gif"/>
 </div>
 
-# Hi there 👋 I am Shankar Thapa ![visitors](https://visitor-badge.glitch.me/badge?page_id=shankarthapa.git@github.com:shankarthapa/shankarthapa.git&left_color=green&right_color=red)
+# Hi there 👋 I am Shankar Thapa (shankasthapa@gmail.com) ![visitors](https://visitor-badge.glitch.me/badge?page_id=shankarthapa.git@github.com:shankarthapa/shankarthapa.git&left_color=green&right_color=red)
 
 <p> I am full-stack software engineer. Love todo coding & travelling, swiming & scuba diving.</p>
 
